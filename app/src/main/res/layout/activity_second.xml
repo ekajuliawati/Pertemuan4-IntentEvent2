@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:text="@string/textview"
         android:textSize="36sp"
-        android:layout_editor_absoluteX="35dp"
-        android:layout_editor_absoluteY="78dp"/>
-
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="78dp"/>
 
 </LinearLayout>
